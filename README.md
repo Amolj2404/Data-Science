@@ -1,1 +1,1 @@
-# Data-Science study material from class
+# Data-Science study material
